@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>new thing</title>
+        <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+    </head>
+    
+    <body>
+        <!-- header start -->
+        <div id="header" class="section">
+            <img alt="" class="img-circle" src="https://code.sololearn.com/Icons/Avatars/0.jpg">
+            <p>NAYANRAJ</p></br>
+            </div>
+            <!.....end img.....!>
+            
+            
+<div class ="section">
+<h1><span>ABOUT ME</span></h1>
+<p>Hey every one, I am nayan raj .I am learn to coding so i am writing a essay about me actually  you can say me a quick learner but this is not that thing as i am very quick and i like be quick and furious and i like to learn about technology so i am learning to code on my smart phone which has android 8.1.0 which is great for me as i very curious to know more about coding so i am coding now . so <strong>thank you for reading this shit. </strong> </p>
+</div>
+
+<!.....end about section ....!>
+
+
+<!.....start my time table of collage ....!>
+
+<div class ="section">
+    <h1><span>TIME-TABLE</span></h1>
+    <table>
+        <tr>
+            <th>days</th>
+            <th>period 1</th>
+            <th>period 2</th>
+            <th>period 3</th>
+            <th>period 4</th>
+            <th>period 5</th>
+            <th>period 6</th>
+        </tr>
+        <tr>
+            <th>monday</th>
+            <td>english</td>
+            <td>E.C</td>
+            <td class ="selected">M1</td>
+            <td>E.W</td>
+            <td>E.W</td>
+            <td>E.W</td>
+        </tr>
+        <tr>
+        <th>tuesday</th>
+        <td>BEE</td>
+        <td>BEE</td>
+        <td>BEE</td>
+        <td>SS</td>
+        <td>ECLS</td>
+        <td>ECLS</td>
+        </tr>
+    
+    
+    <tr>
+        <th>wensday</th>
+        <td>E.C</td>
+        <td>BEE</td>
+        <td>BEE</td>
+        <td>eng</td>
+        <td>sport??</td>
+        <td>MUS</td>
+        
+    </tr>
+        <tr>
+            <th>thusday</th>
+            <td>E.C</td>
+            <td>E.C</td>
+            <td>E.C</td>
+            <td>BEE</td>
+            <td>E.C</td>
+            <td class ="selected">M1</td>
+            
+        </tr>
+        <tr>
+            <th>friday</th>
+            <td>E.C</td>
+            <td>BEE</td>
+            <td>BEE</td>
+            <td class ="selected">M1</td>
+            <td>ITL</td>
+            <td>ITL</td>
+        </tr>
+        <tr>
+            <th>satarday</th>
+            <td>LSL</td>
+            <td>LSL</td>
+            <td class ="selected">M1</td>
+            <td class =" selected">M1</td>
+            <td>E.C</td>
+            <td>E.W</td>
+        </tr>
+    </table>
+    
+    
+</div>
+
+<!......time table finish....!>
+
+<!....start my computer knowledge...!>
+
+<div class =" section">
+    <h1><span>MY SKILLS</span></h1>
+    <ul>
+        <li>JAVA</br>
+        <progress min ="0" max ="100" value="80" ></progress>
+        </li>
+        <li>HDML</br>
+        <progress min ="0" max ="100" value="45"></progress>
+        </li>
+        <li>JAVASCRIPT</br>
+        <progress min ="0" max="100" value ="23"></progress>
+            
+        </li>
+        <li> C</br>
+        <progress min="0" max="100" value="13"
+        </li> 
+        
+        <li>SQL</br>
+        <progress min ="0" max ="100" value ="6"></progress>
+        </li>
+        <li>GENERAL TECHNOLOGY </br>
+        <progress  min ="0" max ="100" value ="94"></progress>
+        </li>
+        <a>above information is a true and updated</a>
+    </ul>
+</div>
+
+<!........finsh my skills......!>
+
+
+<!.......start my youtube channel video.....!>
+
+<div class ="section">
+<h1><span>MY YOUTUBE CHANNEL</span></h1>
+<p><strong>MY YOUTUBE CHANNEL NAME IS ALIEN GAMER</strong></p>
+<iframe height ="150" width ="300" scr="https://m.youtube.com/watch?v=kcjjpjli8zo"allowfullscreen ="0"></iframe>
+
+    
+</div>
+<!.......finsh of youtubechannel.....!>
+
+<!.......start contact me......!>
+
+<div class =" section">
+
+<h1><span>CONTACT ME</span></h1>
+<form>
+    
+NAME:-<input type="username" name ="name" placeholder ="username">
+    E-MAIL:-<input type ="email" name ="email"
+    placeholder ="email">
+    FEEDBACK:-<textarea type="message" name="message" placeholder="please give a feedback"></textarea>
+    
+</form>
+    <input type="submit" class="submit" name ="send">
+    
+</div>
+
+<!.......contact me....!>
+
+<div class ="copyright">
+&copy;new thing 2018.All rights reserved.
+    
+  
+</div>
+</body>
+</html>
+
